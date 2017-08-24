@@ -1,3 +1,2 @@
-markdown: redcarpet
-baseurl: https://chadtracy.github.io/
+baseurl: /chadtracy.github.io/
 exclude: ["README.md"]
